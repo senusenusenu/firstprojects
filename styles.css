@@ -5,7 +5,6 @@ body{
     justify-content: center;
     align-items: center;     /* по вертикали */
     background-color: rgba(0, 0, 0, 0.86);
-    
 }
 
 .calc {
@@ -18,7 +17,6 @@ body{
     color: white;
     font-family: Tahoma;
     transform: translateX(-275px);
-    
 }
 
 div {
@@ -34,7 +32,6 @@ input[type="text"] {
     font-size: 25px;
     color: black;
     font-family: Tahoma;
-
 }
 
 input[type="text"]::placeholder {
